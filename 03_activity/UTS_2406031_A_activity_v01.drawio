@@ -1,0 +1,42 @@
+<mxfile host="Electron">
+  <diagram name="Page-1" id="8n85C5CUZUjXQ_jM1F2w">
+    <mxGraphModel dx="678" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="sOgT4YFBYshWFs2C6r9I-1" parent="1" style="swimlane;startSize=20;whiteSpace=wrap;html=1;" value="Pelanggan" vertex="1">
+          <mxGeometry height="410" width="290" x="90" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="sOgT4YFBYshWFs2C6r9I-9" edge="1" parent="sOgT4YFBYshWFs2C6r9I-1" source="sOgT4YFBYshWFs2C6r9I-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;endArrow=block;endFill=1;" target="sOgT4YFBYshWFs2C6r9I-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sOgT4YFBYshWFs2C6r9I-3" parent="sOgT4YFBYshWFs2C6r9I-1" style="ellipse;fillColor=strokeColor;html=1;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="130" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sOgT4YFBYshWFs2C6r9I-6" parent="sOgT4YFBYshWFs2C6r9I-1" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" value="Melihat Daftar Menu" vertex="1">
+          <mxGeometry height="40" width="140" x="75" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="sOgT4YFBYshWFs2C6r9I-2" parent="1" style="swimlane;startSize=20;whiteSpace=wrap;html=1;" value="Sistem" vertex="1">
+          <mxGeometry height="410" width="300" x="380" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="sOgT4YFBYshWFs2C6r9I-11" edge="1" parent="sOgT4YFBYshWFs2C6r9I-2" source="sOgT4YFBYshWFs2C6r9I-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;endArrow=block;endFill=1;" target="sOgT4YFBYshWFs2C6r9I-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sOgT4YFBYshWFs2C6r9I-7" parent="sOgT4YFBYshWFs2C6r9I-2" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" value="Menampilkan Daftar Menu beserta harga dan ketersediannya" vertex="1">
+          <mxGeometry height="60" width="140" x="80" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="sOgT4YFBYshWFs2C6r9I-8" parent="sOgT4YFBYshWFs2C6r9I-2" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="135" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="sOgT4YFBYshWFs2C6r9I-10" edge="1" parent="1" source="sOgT4YFBYshWFs2C6r9I-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;endArrow=block;endFill=1;" target="sOgT4YFBYshWFs2C6r9I-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="235" y="270" />
+              <mxPoint x="530" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
